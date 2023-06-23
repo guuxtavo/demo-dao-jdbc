@@ -1,0 +1,11 @@
+- Inicializar o repositório git e associar com o github. (git init e git remote).
+- Pegar os arquivos do git remoto para passar pro local (git pull origin main / master).
+- Adicionar os arquivos que vão ser comitados (git add .)
+- Realizar o commit (git commit - m "Creating a new project and repository").
+- Atualizar o git remoto (git push -u origin main).
+
+
+------------ =================== ---------------
+
+
+
